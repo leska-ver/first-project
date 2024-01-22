@@ -23,5 +23,5 @@ HEAD -- это голова.
 
 # ещё раз отредактировали main.html
 
-$ git add main.html # добавили в список на коммит
+$ git add main.html # добавили в список на коммит<br>
 $ git commit --amend --no-edit 
