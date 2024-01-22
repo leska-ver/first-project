@@ -25,3 +25,6 @@ HEAD -- это голова.
 
 $ git add main.html # добавили в список на коммит<br>
 $ git commit --amend --no-edit 
+
+<h2>Как изменить сообщение последнего коммита?</h2>
+git commit --amend -m "новое сообщение"
