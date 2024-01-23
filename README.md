@@ -51,3 +51,7 @@ git restore app.js
 git reset --hard 96aa6ee
 
 Он  96aa6ee предпоследний комит.
+
+<h2>Как выяснить выяснить детали изменения внутри файла?</h2>
+
+git diff
