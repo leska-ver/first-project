@@ -59,4 +59,6 @@ git diff
 Команда git diff сравнит последнюю закоммиченную версию файла с той, что находится в состоянии modified.<br>
 Команда git diff --staged покажет изменения в staged-файлах относительно последних закоммиченных версий.
 
+ GitHub Начать/С помощью Git/Сведения о GIT - https://docs.github.com/ru/get-started/using-git/about-git
+
 Ещё пару шпор  -  https://practicum.yandex.ru/trainer/git-basics/lesson/b1ecee27-bb78-46a0-8d13-0364c7803f55/
